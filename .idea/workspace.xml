@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="039cf902-3aa1-4a20-b511-10d865fe56bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/Aircraft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/AircraftFlying.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/AircraftLanding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/AircraftParked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/AircraftState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/AircraftTakingOff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/state/AircraftTaxiing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AircraftTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="039cf902-3aa1-4a20-b511-10d865fe56bf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
